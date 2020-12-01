@@ -5,6 +5,8 @@ Age, Gender and Race Face Classification
 
 Create folder 'data' and put dataset age_gender_race.csv inside. Dataset can be downloaded [here](https://drive.google.com/drive/folders/1Lnp4u1mNNQ6Gqc-JDW9OmniOnNV65y43?usp=sharing).
 
+Create folder 'models' and put pretrained models inside. Download them [here](https://drive.google.com/drive/folders/16-EhiXckrL2wcrBuGXp9R2EPLX966_VQ?usp=sharing)
+
 ## Set up project
 
 ### Online:
